@@ -1,0 +1,41 @@
+html{
+  margin: 0;
+  padding: 0;
+  background: #FF0000;
+}
+body{
+  font-family: sans-serif;
+  padding: 5px;
+}
+.main{
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  height: 300px;
+  border: 8px solid black;
+  margin: 200px auto;
+  padding: 30px;
+  background: white;
+}
+.myForm{
+  position: absolute;
+  margin-left: 250px;
+  margin-top: 40px;
+}
+footer{
+  position: absolute;
+  margin: 40px;
+}
+h1
+{
+  position: absolute;
+  font-size: 60px;
+  font-family: sans-serif;
+  top: -86px;
+  color: white;
+  text-shadow: 0px -1px 1px black,
+	             0px -2px 1px black,
+	             0px -3px 1px black,
+	             0px -4px 1px black,
+	             0px -5px 1px black;
+}
