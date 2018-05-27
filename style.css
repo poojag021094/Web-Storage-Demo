@@ -12,7 +12,7 @@ body{
   width: 100%;
   max-width: 800px;
   height: 250px;
-  border: 8px solid black;
+  border: 5px solid black;
   margin: 200px auto;
   padding: 20px;
   background: white;
@@ -21,12 +21,12 @@ body{
 .myForm{
   position: absolute;
   margin-left: 250px;
-  margin-top: 30px;
+  margin-top: 10px;
   letter-spacing: 2px;
 }
 footer{
   position: absolute;
-  margin: 40px;
+  margin: 10px;
 }
 h1
 {
